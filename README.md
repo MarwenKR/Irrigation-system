@@ -7,10 +7,11 @@ system should be able to take correct decisions about planning irrigation’s sl
 ***To use***
 --------
 To use this implementation, follow this steps:
-1 - Load the project into Keil uVision: Project->Open Project->.\MDK-ARM\Embarque..uvprojx
-2 - Add the path of LCD libraries(STM_MY_LCD16X2): Project->Options for target Embarque->C/C++->Include Paths
-3 - Build the project
-4 - Load the project to STM32F302R8 Nucleo board.
+
+1. Load the project into Keil uVision: Project->Open Project->.\MDK-ARM\Embarque..uvprojx
+2. Add the path of LCD libraries(STM_MY_LCD16X2): Project->Options for target Embarque->C/C++->Include Paths
+3. Build the project
+4. Load the project to STM32F302R8 Nucleo board.
 
 Used softwares: CubeMX and Keil
 
